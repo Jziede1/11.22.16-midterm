@@ -1,10 +1,10 @@
 .header {
   text-align: center;
-  background: url("https://static.pexels.com/photos/6894/summer-photographer-pier-adventure-large.jpg") no-repeat center center;
+  background: url("http://5.kicksonfire.net/wp-content/uploads/2015/12/Air-Jordan-13-Low-Chutney-1-565x371.jpg?642e0d") no-repeat center center;
   background-size: cover;
   padding: 4rem; }
   .header .main-header {
-    color: #666; }
+    color: #FF0000; }
 
     .header-subnav {
       float: none;
@@ -18,7 +18,7 @@
         .header-subnav li a {
           padding: 0.9rem 1rem 0.75rem;
           font-size: 0.875rem;
-          color: #fff;
+          color:	#FF0000;
           text-transform: uppercase;
           display: block;
           font-weight: bold;
