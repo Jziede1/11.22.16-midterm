@@ -21,7 +21,7 @@
       font-size: 48px;
       font-weight: 900; }
 
-      @media screen and (max-width: 39.9375em) {
+      @media screen and (max-width: 40em) {
         .orbit-caption p {
           font-size: 12px;
           font-weight: 400; } }
